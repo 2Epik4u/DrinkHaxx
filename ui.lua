@@ -1,3 +1,4 @@
+-- Credit to aztup for this ui
 local function initLibrary()
     local library = {flags = {}, callbacks = {}, rainbowI = 0};
 
