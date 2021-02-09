@@ -5,4 +5,7 @@ Burping simulator script i made a while back when i still played it.
 Aztup for the ui
 
 # How to run
-Download (Drinkhaxx.lua)[https://github.com/2Epik4u/DrinkHaxx/blob/main/Drinkhaxx.lua]
+Download [Drinkhaxx.lua](https://github.com/2Epik4u/DrinkHaxx/blob/main/Drinkhaxx.lua) then paste it in your executor.
+
+# Modifying drinkhaxx
+If you are going to modify it, please respect the [License](https://github.com/2Epik4u/DrinkHaxx/blob/main/LICENSE)
