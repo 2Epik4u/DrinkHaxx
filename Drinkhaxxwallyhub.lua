@@ -1,3 +1,6 @@
+-- NOTE: this code is very old and doesnt work. Burp spam is very broken and barely works. Auto prestige i think works. 
+-- Please use the aztup hud ui version, since it has some fixed stuff.
+
 local library = loadstring(game:HttpGet("https://pastebin.com/raw/CkyR8ePz",true))() 
 library.options.underlinecolor = "rainbow"
 local w = library:CreateWindow('Drinkhaxx')
