@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://2epik4u.github.io/DrinkHaxx/ui.lua"))();
+local library = loadstring(game:HttpGet("https://Thunderzapper.github.io/DrinkHaxx/ui.lua"))();
 
 
 local Gamer = library:CreateSection("Scripts");
