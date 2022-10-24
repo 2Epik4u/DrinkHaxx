@@ -1,5 +1,5 @@
 # DrinkHaxx
-Burping simulator script i made a while back when i still played it. This code is very skidded so beware lol
+Burping simulator script i made a while back when i still played it.
 
 # Credits
 Aztup for the ui, wally for the wally hub version of the script.
